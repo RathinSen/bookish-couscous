@@ -6,3 +6,8 @@ GCD & LCM in package com.core.chef.FLOW016.Main
 
 com.core.chef.FLOW016.Main
 triangles?
+
+# Not Done
+
+STRPALIN
+MSTEP
